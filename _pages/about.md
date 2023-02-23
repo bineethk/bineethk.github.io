@@ -77,7 +77,7 @@ Indian Institute of Information Technology and Management (IIITM), Kerala, India
 # 🔰 Associations and Memberships
 - **Professional Member**, Association of Computing Machinery (ACM).
 - **Campus Advisor**, Elsevier Mendeley Community.
-- **Campus Advisor*, Overleaf Community.
+- **Campus Advisor**, Overleaf Community.
 - **Member**, European Society for Socially Embedded Technologies (EUSSET).
 - **Member**, IEEE Internet of Things Community.
 - **Member**, IEEE Green ICT Community.
