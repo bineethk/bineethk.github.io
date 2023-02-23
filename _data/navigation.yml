@@ -15,8 +15,8 @@ main:
 #  - title: "Educations"
 #    url: "/#-educations"
 
-  - title: "Scientific Workshops"
+  - title: "Conferences and Scientific Workshops"
     url: "/#-scientific-workshops"
 
-#  - title: "Internships"
-#    url: "/#-internships"
+  - title: "Associations and Memberships"
+    url: "/#-associations"
