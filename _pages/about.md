@@ -62,6 +62,23 @@ Cochin University of Science and Technology (CUSAT), Kerala, India. (2013-15).
 Indian Institute of Information Technology and Management (IIITM), Kerala, India. (2011-13).
  
 
-# 💬 Invited Talks
+# 💬 Conferences and Scientific Workshops
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- **Volunteer**, ASSETS'22, Athens, Greece, October 2022.
+- **Volunteer**, MobHCI'22, Vancouver, Canada, September 2022.
+- **Volunteer**, HCI'21, Washington DC, USA, July 2021.
+- **Volunteer**, NordCHI'20, Tallinn, Estonia, October 2020.
+- **Coordinator and Grant Writer**,  Five-Day Workshop on Deep Learning for Computer Vision (Funded by Kerala State Council for Science, Technology, and Environment (KSCSTE)), MITS, Ernakulam, India, January 2018.
+- **Coordinator**, Two day workshop on \textquoteleft Web Technologies -  An Industrial Perspective\textquoteright , MITS, Ernakulam, India, December 2017.
+- **Coordinator**, Three-day workshop on Parallel Programming Technologies, SCET, Kodakara, India, April 2016.
+- **Coordinator**, One-Day workshop on 'Computer Vision using OpenCV', MEC, Kochi, India, March 2015.
+- **Coordinator**, IEEE-CAS Workshop, IIITM-K, Thiruvananthapuram, May 2012.
 
+# :beginner: Associations and Memberships
+- **Professional Member**, Association of Computing Machinery (ACM).
+- **Campus Advisor**, Elsevier Mendeley Community.
+- **Campus Advisor*, Overleaf Community.
+- **Member**, European Society for Socially Embedded Technologies (EUSSET).
+- **Member**, IEEE Internet of Things Community.
+- **Member**, IEEE Green ICT Community.
+- **Member**, International Association of Computer Science and Information Technology (IACSIT).
