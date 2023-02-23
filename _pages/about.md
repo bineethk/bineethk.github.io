@@ -54,7 +54,7 @@ Involved in product automation using AI and computer vision.
 Involved in security-algorithm-related research for a product.
 
 
-# 🎓 Educations
+# 🎓 Education
 - **PhD**, Artificial Intelligence & HCI (thesis submission in Feb 2023) Oslo Metropolitan University (OsloMet), Oslo, Norway. (2019-23).
 - **Master of Technology**, Computer Science (Image Processing)
 Cochin University of Science and Technology (CUSAT), Kerala, India. (2013-15).
