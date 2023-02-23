@@ -44,7 +44,7 @@ I am an experienced AI-HCI Researcher currently associated with Oslo Metropolita
 - **Bineeth Kuriakose**, Varghese Mathai, Arun Baby, and Jeexon Jose, “Enhanced Portable Customer Experience Using Community Computation in Offline Retail”, 2nd International Conference on Inventive Computation Technologies (ICICT), Springer, 2017.
 - **Bineeth Kuriakose**, Joshin J Mathew, Balaji Balasubramaniam, Preena K P, “Deconstructing Image Semantics in Natural Language Representation”, Fourth IEEE International Conference on Communication and Signal Processing, IEEE, 2015.
 
-# :briefcase: Work Experience
+# 💼 Work Experience
 - **AI Researcher**, Autopix AS, Oslo, Norway. (20%)	(Sep 2022 - Dec 2022)
 Involved in product automation using AI and computer vision.
 - **Research Fellow**, Artificial Intelligence Lab, Oslo Metropolitan University, Norway. (Feb 2019 - Feb 2023) Involved in managing the AI-based research project through various phases such as inception, design, development, and evaluation. Experience with various support organizations and networks for conducting research collaborations. Presented the work at reputed conferences and published in journals. Exposure to machine learning, user experience research, interaction studies, project management tools, etc.
@@ -54,7 +54,7 @@ Involved in product automation using AI and computer vision.
 Involved in security-algorithm-related research for a product.
 
 
-# :mortar_board: Educations
+# 🎓 Educations
 - **PhD**, Artificial Intelligence & HCI (thesis submission in Feb 2023) Oslo Metropolitan University (OsloMet), Oslo, Norway. (2019-23).
 - **Master of Technology**, Computer Science (Image Processing)
 Cochin University of Science and Technology (CUSAT), Kerala, India. (2013-15).
@@ -74,7 +74,7 @@ Indian Institute of Information Technology and Management (IIITM), Kerala, India
 - **Coordinator**, One-Day workshop on 'Computer Vision using OpenCV', MEC, Kochi, India, March 2015.
 - **Coordinator**, IEEE-CAS Workshop, IIITM-K, Thiruvananthapuram, May 2012.
 
-# :beginner: Associations and Memberships
+# 🔰 Associations and Memberships
 - **Professional Member**, Association of Computing Machinery (ACM).
 - **Campus Advisor**, Elsevier Mendeley Community.
 - **Campus Advisor*, Overleaf Community.
