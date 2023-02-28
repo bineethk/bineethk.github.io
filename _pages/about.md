@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an experienced AI-HCI Researcher currently associated with Oslo Metropolitan University, Norway. With experience from both academia and industry, I am interested in finding universal accessible solutions using emotional and artificial intelligence.
+I am an experienced AI-HCI researcher associated with Oslo Metropolitan University, Norway. My research focus is on Human-centered AI, and my supplementary research areas are computer vision, machine learning, assistive technology, and emotional intelligence.
 
 
 
@@ -63,7 +63,6 @@ Indian Institute of Information Technology and Management (IIITM), Kerala, India
  
 
 # 💬 Conferences and Scientific Workshops
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 - **Volunteer**, ASSETS'22, Athens, Greece, October 2022.
 - **Volunteer**, MobHCI'22, Vancouver, Canada, September 2022.
 - **Volunteer**, HCI'21, Washington DC, USA, July 2021.
