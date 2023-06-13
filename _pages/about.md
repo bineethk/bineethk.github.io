@@ -8,16 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
-I am an experienced AI-HCI researcher associated with Oslo Metropolitan University, Norway. My research focus is on Human-centered AI, and my supplementary research areas are computer vision, machine learning, assistive technology, and emotional intelligence.
+I am an experienced AI-HCI researcher associated with Oslo Metropolitan University, Norway. My research focus is on Human-centered AI, and my supplementary research areas are accessbility/ assistive technology, computer vision, and machine learning.
 
 
 
