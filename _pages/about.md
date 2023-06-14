@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an experienced HCI+AI researcher associated with Oslo Metropolitan University, Norway. My research focus is on Human-mobile interaction, accessbility/ assistive technology, computer vision, and applied machine learning.
+I am an experienced HCI+AI researcher associated with Oslo Metropolitan University, Norway. My research focus is on Human-computer interaction, applied artificial intelligence, accessbility/ assistive technology, and computer vision.
 
 
 
