@@ -10,7 +10,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an experienced AI-HCI researcher associated with Oslo Metropolitan University, Norway. My research focus is on Human-centered AI, and my supplementary research areas are accessbility/ assistive technology, computer vision, and machine learning.
+I am an experienced HCI+AI researcher associated with Oslo Metropolitan University, Norway. My research focus is on Human-mobile interaction, accessbility/ assistive technology, computer vision, and applied machine learning.
 
 
 
@@ -48,7 +48,7 @@ Involved in security-algorithm-related research for a product.
 
 
 # 🎓 Education
-- **PhD**, Artificial Intelligence & HCI (thesis submission in Feb 2023) Oslo Metropolitan University (OsloMet), Oslo, Norway. (2019-23).
+- **PhD**, HCI and Artificial Intelligence (thesis submitted) Oslo Metropolitan University (OsloMet), Oslo, Norway. (2019-23).
 - **Master of Technology**, Computer Science (Image Processing)
 Cochin University of Science and Technology (CUSAT), Kerala, India. (2013-15).
 - **Master of Science**, Information Technology
