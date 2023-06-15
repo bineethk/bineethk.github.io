@@ -16,8 +16,8 @@ I am an experienced HCI+AI researcher associated with Oslo Metropolitan Universi
 
 
 # 🔥 News
-- *2023.06*: :partying_face: :partying_face: Our paper _Exploring the User Experience of an AI-based Smartphone Navigation Assistant for People with Visual Impairments_ accepted in **CHITALY'23**. 
-- *2023.02*: 🎉🎉 PhD dissertation submitted
+- *2023.06*: 🎉🎉 Our paper _Exploring the User Experience of an AI-based Smartphone Navigation Assistant for People with Visual Impairments_ accepted in **CHITALY'23**. 
+- *2023.02*: ✨✨ PhD dissertation submitted
 
 # 📝 Publications 
 
