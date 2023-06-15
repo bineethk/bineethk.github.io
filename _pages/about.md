@@ -16,13 +16,15 @@ I am an experienced HCI+AI researcher associated with Oslo Metropolitan Universi
 
 
 # 🔥 News
+- *2023.06*: :partying_face: :partying_face: Our paper _Exploring the User Experience of an AI-based Smartphone Navigation Assistant for People with Visual Impairments_ accepted in **CHITALY'23**. 
 - *2023.02*: 🎉🎉 PhD dissertation submitted
 
 # 📝 Publications 
 
 - **Bineeth Kuriakose**, Ida Marie Ness, Maja Åskov Tengstedt, Jannicke Merete Svendsen, Terese Bjørseth, Bijay Lal Pradhan and Raju Shrestha, “Turn Left Turn Right - Delving type and modality of instructions in navigation assistant systems for people with visual impairments ”, International Journal of Human-Computer Studies, Elsevier, 2023. [UNDER REVIEW]
-- **Bineeth Kuriakose**, Raju Shrestha, Frode Eika Sandnes, “Impressions of people with visual impairments on an intelligent smartphone navigation assistant – Findings from an experimental evaluation study ”, International Journal of Human–Computer Interaction, Taylor & Francis, 2023. [UNDER REVIEW]
-- **Bineeth Kuriakose**, Irina Cosescu, Raju Shrestha, Frode Eika Sandnes, “Mind Your Step: A diary study of a person with visual impairment navigating a city with a smart cane”, International Conference on ICT for Health, Accessibility, and Wellbeing (IC-IHAW 2022), Springer, 2022. [IN PRESS]
+- **Bineeth Kuriakose**, Raju Shrestha, Frode Eika Sandnes, “Assessing the Performance and Acceptance of an AI-based Navigation Assistant for People with Visual Impairments: Insights from an Experimental Study”, International Journal of Human Factors and Ergonomics, Inderscience, 2023. [UNDER REVIEW]
+-  **Bineeth Kuriakose**, Raju Shrestha, Frode Eika Sandnes, “Exploring the User Experience of an AI-based Smartphone Navigation Assistant for People with Visual Impairments ”, CHItaly 2023: 15th Biannual Conference of the Italian SIGCHI Chapter, ACM, 2023. [ACCEPTED]
+- **Bineeth Kuriakose**, Irina Cosescu, Raju Shrestha, Frode Eika Sandnes, “Mind Your Step: A diary study of a person with visual impairment navigating a city with a smart cane”, International Conference on ICT for Health, Accessibility, and Wellbeing (IC-IHAW 2022), Springer, 2022.
 - **Bineeth Kuriakose**, Raju Shrestha, Frode Eika Sandnes, “DeepNAVI: A Deep Learning based Smartphone Navigation Assistant for People with Visual Impairments ”, Expert Systems With Applications, Elsevier, 2022. [LEVEL 2]
 - **Bineeth Kuriakose**, Raju Shrestha, Frode Eika Sandnes, “LiDAR-based Obstacle Detection and Distance Estimation in Navigation Assistance for Visually Impaired ”Universal Access in Human-Computer Interaction- Applications and Practice, Springer, 2022.
 - **Bineeth Kuriakose**, Raju Shrestha, Frode Eika Sandnes, “SceneRecog: A Deep Learning Scene Recognition Model for Assisting Blind and Visually Impaired Navigate using Smartphones, ”IEEE Int. Conference on Systems, Man and Cybernetics (IEEE SMC), IEEE, 2022.
